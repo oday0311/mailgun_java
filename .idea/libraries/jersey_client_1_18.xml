@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jersey-client-1.18">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jersey-client-1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-core-1.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
